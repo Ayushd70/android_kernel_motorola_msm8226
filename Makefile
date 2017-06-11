@@ -1,7 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 4
 SUBLEVEL = 113
-EXTRAVERSION = -ソウルテイカー
+EXTRAVERSION = -Warrior™
 NAME = Saber-toothed Squirrel
 
 # *DOCUMENTATION*
